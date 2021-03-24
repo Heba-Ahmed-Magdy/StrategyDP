@@ -1,0 +1,11 @@
+C:\Users\heba.magdy\Desktop\NewKnowledgeForOntellus\DesignBatterns\StrategyDP\StrategyDP\bin\Debug\netcoreapp3.1\StrategyDP.exe
+C:\Users\heba.magdy\Desktop\NewKnowledgeForOntellus\DesignBatterns\StrategyDP\StrategyDP\bin\Debug\netcoreapp3.1\StrategyDP.deps.json
+C:\Users\heba.magdy\Desktop\NewKnowledgeForOntellus\DesignBatterns\StrategyDP\StrategyDP\bin\Debug\netcoreapp3.1\StrategyDP.runtimeconfig.json
+C:\Users\heba.magdy\Desktop\NewKnowledgeForOntellus\DesignBatterns\StrategyDP\StrategyDP\bin\Debug\netcoreapp3.1\StrategyDP.runtimeconfig.dev.json
+C:\Users\heba.magdy\Desktop\NewKnowledgeForOntellus\DesignBatterns\StrategyDP\StrategyDP\bin\Debug\netcoreapp3.1\StrategyDP.dll
+C:\Users\heba.magdy\Desktop\NewKnowledgeForOntellus\DesignBatterns\StrategyDP\StrategyDP\bin\Debug\netcoreapp3.1\StrategyDP.pdb
+C:\Users\heba.magdy\Desktop\NewKnowledgeForOntellus\DesignBatterns\StrategyDP\StrategyDP\obj\Debug\netcoreapp3.1\StrategyDP.csprojAssemblyReference.cache
+C:\Users\heba.magdy\Desktop\NewKnowledgeForOntellus\DesignBatterns\StrategyDP\StrategyDP\obj\Debug\netcoreapp3.1\StrategyDP.AssemblyInfoInputs.cache
+C:\Users\heba.magdy\Desktop\NewKnowledgeForOntellus\DesignBatterns\StrategyDP\StrategyDP\obj\Debug\netcoreapp3.1\StrategyDP.AssemblyInfo.cs
+C:\Users\heba.magdy\Desktop\NewKnowledgeForOntellus\DesignBatterns\StrategyDP\StrategyDP\obj\Debug\netcoreapp3.1\StrategyDP.dll
+C:\Users\heba.magdy\Desktop\NewKnowledgeForOntellus\DesignBatterns\StrategyDP\StrategyDP\obj\Debug\netcoreapp3.1\StrategyDP.pdb
